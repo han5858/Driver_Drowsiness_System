@@ -34,5 +34,5 @@ EAR = (||p2 - p6|| + ||p3 - p5||) / (2 * ||p1 - p4||)
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/Driver-Drowsiness-Detection.git](https://github.com/YOUR_USERNAME/Driver-Drowsiness-Detection.git)
+git clone [https://github.com/han5858/Driver-Drowsiness-Detection.git](https://github.com/han5858/Driver-Drowsiness-Detection.git)
 cd Driver-Drowsiness-Detection
